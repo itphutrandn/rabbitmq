@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: itphutran
+Build-Jdk: 11.0.8
+Implementation-Title: spring-boot-rabbitmq-listener
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.javainuse
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/spring-boot-rabbitmq-listener
+Created-By: Maven Integration for Eclipse
+
